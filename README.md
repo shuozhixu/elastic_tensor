@@ -11,12 +11,12 @@ Each of the next three lines of elas.in contains three real numbers. The first, 
 The next six lines of `elas.in` contain 21 real numbers which are components of the input stiffness tensor, i.e,
 
 <pre>
-	<i>C</i><sub>11</sub>
-	<i>C</i><sub>12</sub> <i>C</i><sub>22</sub>
-	<i>C</i><sub>13</sub> <i>C</i><sub>23</sub> <i>C</i><sub>33</sub>
-	<i>C</i><sub>14</sub> <i>C</i><sub>24</sub> <i>C</i><sub>34</sub> <i>C</i><sub>44</sub>
-	<i>C</i><sub>15</sub> <i>C</i><sub>25</sub> <i>C</i><sub>35</sub> <i>C</i><sub>45</sub> <i>C</i><sub>55</sub>
-	<i>C</i><sub>16</sub> <i>C</i><sub>26</sub> <i>C</i><sub>36</sub> <i>C</i><sub>46</sub> <i>C</i><sub>56</sub> <i>C</i><sub>66</sub>
+<i>C</i><sub>11</sub>
+<i>C</i><sub>12</sub> <i>C</i><sub>22</sub>
+<i>C</i><sub>13</sub> <i>C</i><sub>23</sub> <i>C</i><sub>33</sub>
+<i>C</i><sub>14</sub> <i>C</i><sub>24</sub> <i>C</i><sub>34</sub> <i>C</i><sub>44</sub>
+<i>C</i><sub>15</sub> <i>C</i><sub>25</sub> <i>C</i><sub>35</sub> <i>C</i><sub>45</sub> <i>C</i><sub>55</sub>
+<i>C</i><sub>16</sub> <i>C</i><sub>26</sub> <i>C</i><sub>36</sub> <i>C</i><sub>46</sub> <i>C</i><sub>56</sub> <i>C</i><sub>66</sub>
 </pre>
 
 Each of the next three lines of `elas.in` contains three real numbers. The first, second, and third line, respectively, corresponds to the crystallographic orientations of the _x_, _y_, and _z_ axis of the coordinate system based on which the output stiffness and compliance tensors are calculated, e.g.,
