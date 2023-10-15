@@ -35,7 +35,7 @@ Then to run the program:
 
 which creates an output file, `elas.out`. The file `elas.out` contains a stiffness tensor, which is Equation 9 of [a paper in _Intermetallics_](http://dx.doi.org/10.1016/j.intermet.2020.106844), and a compliance tensor.
 
-### Reference
+## Reference
 
 If you use this program in your published work, please cite:
 
