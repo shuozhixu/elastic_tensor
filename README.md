@@ -35,6 +35,8 @@ Then to run the program:
 
 which creates an output file, `elas.out`. The file `elas.out` contains a stiffness tensor, which is Equation 9 of [a paper in _Intermetallics_](http://dx.doi.org/10.1016/j.intermet.2020.106844), and a compliance tensor.
 
+### Reference
+
 If you use this program in your published work, please cite:
 
 Shuozhi Xu, Yanqing Su, Irene J. Beyerlein, [Modeling dislocations with arbitrary character angle in face-centered cubic transition metals using the phase-field dislocation dynamics method with full anisotropic elasticity](http://dx.doi.org/10.1016/j.mechmat.2019.103200), Mech. Mater. 139 (2019) 103200
